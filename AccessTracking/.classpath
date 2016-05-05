@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/design/Google Drive (Mitchells)/Java/AccessTracking/res/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/design/Google Drive (Mitchells)/Java/AccessTracking/res/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/design/Google Drive (Mitchells)/Java/AccessTracking/res/hsqldb.jar"/>
+	<classpathentry kind="lib" path="C:/Users/design/Google Drive (Mitchells)/Java/AccessTracking/res/jackcess-2.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/design/Google Drive (Mitchells)/Java/AccessTracking/res/jgoodies-common.jar"/>
+	<classpathentry kind="lib" path="C:/Users/design/Google Drive (Mitchells)/Java/AccessTracking/res/jgoodies-common-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/design/Google Drive (Mitchells)/Java/AccessTracking/res/jgoodies-common-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/design/Google Drive (Mitchells)/Java/AccessTracking/res/jgoodies-forms.jar"/>
+	<classpathentry kind="lib" path="C:/Users/design/Google Drive (Mitchells)/Java/AccessTracking/res/jgoodies-forms-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/design/Google Drive (Mitchells)/Java/AccessTracking/res/jgoodies-forms-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/design/Google Drive (Mitchells)/Java/AccessTracking/res/ucanaccess-3.0.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/design/Google Drive (Mitchells)/Java/AccessTracking/res/ucanload.jar"/>
+	<classpathentry kind="lib" path="res"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
