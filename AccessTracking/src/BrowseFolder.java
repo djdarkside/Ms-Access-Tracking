@@ -1,12 +1,13 @@
-import java.io.File;
+// THIS CLASS ASKS THE USER TO SELECT A DIRECTORY
+// AND THEN RETURNS A PATH STRING TO BE USED FOR SOMETHING ELSE
 
+import java.io.File;
 import javax.swing.JFileChooser;
 import javax.swing.UIManager;
 import javax.swing.UIManager.*;
 import javax.swing.filechooser.FileFilter;
 import javax.swing.filechooser.FileNameExtensionFilter;
-// THIS CLASS ASKS THE USER TO SELECT A DIRECTORY
-// AND THEN RETURNS A PATH STRING TO BE USED FOR SOMETHING ELSE
+
 
 public class BrowseFolder { 
 	
